@@ -1,6 +1,6 @@
 # Privacy Policy for VOID
 
-**Last Updated: August 23, 2026**
+**Last Updated: Sep 17, 2026**
 
 Welcome to VOID. Your privacy is critically important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
 
@@ -21,7 +21,7 @@ To provide authentication, app stability, and Over-The-Air (OTA) timetable updat
 ---
 
 ### 3. Data Sharing and Security
-* **No Selling or Trading:** We do not sell, rent, trade, or expose your personal information to third parties. 
+* **No Selling or Trading:** We do not sell, rent, trade, or expose your personal information to third parties.
 * **Encrypted Storage:** Your account identity and diagnostic telemetry are stored securely on Google's encrypted servers. We employ industry-standard security measures, including data encryption in transit and at rest, to protect your network requests.
 
 ---
@@ -44,8 +44,15 @@ We may update our Privacy Policy from time to time to reflect changes in our eng
 
 ---
 
-### 7. Contact Us
-If you have any questions, technical inquiries, or requests regarding this Privacy Policy or your data, please contact us at:
+### 7. Disclaimer of Warranties & Limitation of Liability
+VOID is provided strictly on an **"AS IS"** and **"AS AVAILABLE"** basis as an independent, automated parsing tool to assist students. It is heavily reliant on user-provided data sources (e.g., department PDF files) which are entirely outside of our control.
+* **Data Accuracy:** We do not guarantee the completeness or accuracy of the extracted schedules. If a teacher conducts classes in multiple departments, their complete schedule will not reflect unless all respective departmental data is provided.
+* **Zero Liability:** Under no circumstances shall the developer be held liable for missed classes, academic penalties, scheduling conflicts, or any direct/indirect damages arising from the use of this application. You agree that it is solely your responsibility to independently verify your timetable with official university administration sources.
+
+---
+
+### 8. Contact Us
+If you have any questions, technical inquiries, or requests regarding this Privacy Policy, the Terms of Use, or your data, please contact us at:
 * **Developer:** Rahim Gujjar
 * **Email:** prime.logic05@gmail.com
 * **Package Name:** com.rahimgujjar.voidappp
